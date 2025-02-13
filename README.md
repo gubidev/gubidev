@@ -17,3 +17,6 @@ I´m currently studying computer engineering
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gubidev/YourUser/gubidev/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gubidev/YourUser/gubidev/github-contribution-grid-snake.svg">
 </picture>
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
