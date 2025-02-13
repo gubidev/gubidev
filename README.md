@@ -19,4 +19,4 @@ I´m currently studying computer engineering
 </picture>
 
 
-![snake gif](https://github.com/gubidev/gubidev/blob/output/github-contribution-grid-snake.gif)
+
