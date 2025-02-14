@@ -1,4 +1,4 @@
-# 💫 Hello World:
+# 💫 About Me:
 👩🏻‍💻 Computer Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying Computer engineering at Instituto de Tecnologia e Liderança, Brazil<br>🎨 Trying to make some horror games<br>💭 Currently learning about Java Script and HTML
 
 
