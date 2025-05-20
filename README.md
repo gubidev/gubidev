@@ -1,19 +1,35 @@
-# 💫 About Me:
-👩🏻‍💻 Computer Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying Computer engineering at Instituto de Tecnologia e Liderança, Brazil<br>🎨 Trying to make some horror games<br>💭 Currently learning about Java Script and HTML
+# 👋 Hello I'm Felipe
 
+## About me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipe_caiafa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecaiafa/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gubi_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felipecaiafa0704@gmail.com) 
+- 😊 I'm Felipe. You can call me Felps, Fe or Gubi
+- 🏫 University: INTELI
+- 🧠 Interested in coding, computers, games, and art 🧪
+- 📚 Currently learning: C/C++, game development
+- 🏓 Hobbies: Programming 💻 and games
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+## 🛠️ My Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [x] 🐍 Java Script (My first programming language)
+- [x] 📚 C#
+- [x] 🌳 Git
+- [ ] 🐧 Linux
+- [ ] 🐧 Currently learning: C/C++, Linux，Game development 🎮
+- [ ] 📚 Plan to learn: Java, Rust
+
+## 📊 My Stats
+
+<!-- ![gubidev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gubidev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubidev&layout=compact&theme=radical) -->
+![Ttiee's github stats](https://github-readme-stats.vercel.app/api?username=gubidev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubidev&theme=transparent&layout=compact&hide=html,css,javascript)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gubidev/gubidev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gubidev/YourUser/gubidev/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gubidev/YourUser/gubidev/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gubidev/gubidev/grid-snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gubidev/gubidev/grid-snake/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gubidev/gubidev/grid-snake/github-contribution-grid-snake.svg">
 </picture>
 
+## 📫 How to reach me
 
+- 📧 Email: [Gmail](mailto:felipecaiafa0704@gmail.com)
 
