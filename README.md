@@ -23,12 +23,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubidev&layout=compact&theme=radical) -->
 ![Ttiee's github stats](https://github-readme-stats.vercel.app/api?username=gubidev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubidev&theme=transparent&layout=compact&hide=html,css,javascript)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gubidev/gubidev/grid-snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gubidev/gubidev/grid-snake/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gubidev/gubidev/grid-snake/github-contribution-grid-snake.svg">
-</picture>
-
 ## 📫 How to reach me
 
 - 📧 Email: [Gmail](mailto:felipecaiafa0704@gmail.com)
