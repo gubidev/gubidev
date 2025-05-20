@@ -2,7 +2,7 @@
 
 ## About me
 
-- 😊 I'm Felipe. You can call me Felps, Fe or Gubi
+- 😊 I'm Felipe. You can call me Felps, Caiafa or Gubi
 - 🏫 University: INTELI
 - 🧠 Interested in coding, computers, games, and art 🧪
 - 📚 Currently learning: C/C++, game development
