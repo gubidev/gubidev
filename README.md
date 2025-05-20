@@ -6,7 +6,7 @@
 - 🏫 University: INTELI
 - 🧠 Interested in coding, computers, games, and art 🧪
 - 📚 Currently learning: C/C++, game development
-- 🏓 Hobbies: Programming 💻 and games
+- 🏓 Hobbies: Programming 💻, playing videogames
 
 ## 🛠️ My Tech Stack
 
