@@ -10,9 +10,9 @@
 - 📚 Currently learning: C/C++, game development
 - 🏓 Hobbies: Programming 💻, playing videogames
 
+## 🛠️Skills:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -23,13 +23,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -62,28 +59,3 @@
 </picture>
 
 ###
-
-
-# 👋 Hello I'm Felipe
-
-## About me
-
-- 😊 I'm Felipe. You can call me Felps, Caiafa or Gubi
-- 🏫 University: INTELI
-- 🧠 Interested in coding, computers, games, and art 🧪
-- 📚 Currently learning: C/C++, game development
-- 🏓 Hobbies: Programming 💻, playing videogames
-
-## 🛠️ My Tech Stack
-
-- [x] 🐍 Java Script (My first programming language)
-- [x] 📚 C#
-- [x] 🌳 Git
-- [ ] 🐧 Currently learning: C/C++, Linux，Game development 🎮
-- [ ] 📚 Plan to learn: Java, Rust
-
-## 📊 My Stats
-
-
-
-
